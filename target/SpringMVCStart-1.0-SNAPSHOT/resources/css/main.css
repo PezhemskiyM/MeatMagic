@@ -1,0 +1,157 @@
+.head{
+    width: 1350px;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+@font-face{
+    font-family: Jura; /* Имя шрифта */
+    src: url(fonts/Jura.ttf); /* Путь к файлу со шрифтом */
+}
+
+body{
+    font-family: Jura;
+    position: relative;
+    margin: auto auto;
+}
+ul li{
+    padding: 0.1px;
+    font-size: 20px;
+}
+.inline li{
+    display:inline;
+    margin-left:  2%;
+}
+
+
+
+.inline{padding-bottom: 10px;background: none;}
+.inline li:hover{text-decoration: underline;}
+#main{
+    text-align: center;
+    font-size: 18px;
+    width: 1350px;
+    display: inline-block;
+    font-family:Jura;
+}
+
+#ser{
+    text-align: center;
+    height:500px;
+}     
+
+h1{
+    font-size: 40px;
+    color:black;
+    text-align: center;
+}
+
+.span3 {
+    position: relative;
+    top: 100px;
+    margin: 0 auto;
+    cursor: pointer;
+    line-height: 250px;
+    width: 300px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family:Jura;
+    font-size: 40px;
+    padding: 0px;
+    border: 0px;
+   
+}
+.zayavka {
+    position: relative;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+#tr1{
+    position: relative;
+    top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    /*line-height: 100px;*/
+    width: 250px;
+    color: white;
+    background-color: rgba(0, 0, 0, 1);
+    text-align: center;
+    font-family:Jura;
+    font-size: 18px;
+    padding: 0px;
+    border: 0px;
+    color: black;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+#icons{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+#td2 a{
+
+    color:white;
+}
+
+#td2{
+    height: 20px;
+}
+#td4{
+    height: 20px;
+    color:white;
+}
+
+#sort{
+    font-size: 20px;
+    background-color: white;
+    height: 50px;
+    width: 500px;
+    /*margin-left: 20%;*/
+    text-align: center;
+}
+.up{display: inline-block;
+    vertical-align: middle;
+
+}
+a{
+    font-family: Jura;
+    text-decoration: none;
+    color:black;
+}
+#next{
+    width: 150px;
+    height: 45px;
+    margin-left: 200%;
+
+}
+#back{
+    margin-top: 30px;
+    width: 150px;
+    height: 45px;
+    margin-left: 30px;
+
+}
+.sort{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    width: 100px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#name1{
+    width: 100px;
+    height: 30px;
+}
+#type1{
+    width: 100px;
+    height: 30px;
+}
+#cost1{
+    width: 100px;
+    height: 30px;
+}

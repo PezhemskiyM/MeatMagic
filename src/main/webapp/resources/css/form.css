@@ -1,0 +1,37 @@
+.container{
+    max-width: 32em;
+	margin: 0 auto;
+	padding: 1.2em; 
+}
+.textbox{
+  height:50px;
+  width:100%;
+  border-radius:3px;
+  border:rgba(0,0,0,.3) 2px solid;
+  box-sizing:border-box;
+  font-size:18px; 
+  padding:10px;
+  margin-bottom:30px;  
+}
+.textbox:focus{
+  outline:none;
+   border:rgba(24,149,215,1) 2px solid;
+   color:rgba(24,149,215,1);
+}
+.button{
+  height:50px;
+  width:100%;
+  border-radius:3px;
+  border:rgba(0,0,0,.3) 0px solid;
+  box-sizing:border-box;
+  padding:10px;
+  background:black;
+  color:#FFF;
+  font-weight:400;
+  font-size: 16pt;
+  transition:background .4s;
+  cursor:pointer;
+}
+.button:hover{
+  background:#80b438;
+}

@@ -1,0 +1,14 @@
+ru\isu\springmvcstart\SecController.class
+ru\isu\service\MenuService.class
+ru\isu\springmvcstart\Order.class
+ru\isu\repository\OrderRepository.class
+ru\isu\repository\MenuRepository.class
+ru\isu\springmvcstart\MenuItem.class
+ru\isu\repository\AutoUserRepository.class
+ru\isu\springmvcstart\MenuOrderTable.class
+ru\isu\springmvcstart\HomeController.class
+ru\isu\CustomUserDetailsService.class
+ru\isu\repository\WriteXML.class
+ru\isu\repository\MOTRepository.class
+ru\isu\springmvcstart\AutoUser.class
+ru\isu\springmvcstart\InputValidator.class
